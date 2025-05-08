@@ -1,11 +1,15 @@
 # **ATM Banking System**
 
+---
+
 ## **Overview**
 
 This project simulates an ATM banking system where users can create a PIN, check their balance, deposit money, withdraw money, and change their PIN. The system consists of two main classes:
 
 - **ATM**: The main program that handles user interaction, including PIN validation and menu options.
 - **Banking**: A helper class that manages the account balance and supports deposit, withdrawal, and balance-checking operations.
+
+---
 
 ## **Classes**
 
@@ -35,6 +39,8 @@ The `Banking` class handles the account's core banking functionality. It include
 - **Deposit**: Adds a specified amount to the current balance.
 - **Withdraw**: Subtracts a specified amount from the balance, provided there are sufficient funds.
 
+---
+
 ### **Functionality and Workflow**
 
 1. **ATM Class** starts by prompting the user to create a 4-digit PIN.
@@ -42,6 +48,8 @@ The `Banking` class handles the account's core banking functionality. It include
 3. In the banking section, users must enter their PIN to validate actions such as checking the balance, depositing, or withdrawing funds.
 4. The program will continuously ask for input until the user selects the "Exit" option.
 5. The user can also change their PIN by providing the correct old PIN and a valid new 4-digit PIN.
+
+---
 
 ### **License**
 
