@@ -1,9 +1,11 @@
-# **ATM Banking System**
+# **ATM Banking App**
+You can run the project directly in your browser using Replit.
+
+[Click here to run](https://replit.com/@arunsaijaladan1/ATMBankingApp?v=1)
 
 ---
-## Java Project on Replit
 
-[Run this project on Replit](https://replit.com/@arunsaijaladan1/ATMBankingApp?v=1)
+
 ## **Overview**
 
 This project simulates an ATM banking system where users can create a PIN, check their balance, deposit money, withdraw money, and change their PIN. The system consists of two main classes:
@@ -52,52 +54,22 @@ The `Banking` class handles the account's core banking functionality. It include
 5. The user can also change their PIN by providing the correct old PIN and a valid new 4-digit PIN.
 
 ---
-## **How to Run**
+### **Steps to run the project:**
 
-### **Prerequisites**
+1. **Open the project**:
 
-- Java Development Kit (JDK) 8 or higher installed.  
-  You can download it from [Oracle's official site](https://www.oracle.com/java/technologies/javase-downloads.html) or install [OpenJDK](https://openjdk.org/install/).
+2. **Remix the app** (if you're a viewer):
+   - If you're not the owner of the project, you won’t see the **Run** button.
+   - To interact with the project:
+     - Click the **"Remix this app"** button.
+     - This will create a copy of the project in your own Replit account.
 
-**To check if Java is installed:**
-```bash
-java -version
-javac -version
-```
+3. **Run the project**:
+   - After remixing, you’ll see the **Run** button at the top.
+   - Click **Run** to compile and start the ATM Banking app.
 
----
-
-### **Steps to Compile and Run the Application**
-
-1. **Clone or Download the Repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. **Ensure Folder Structure Matches the Package Name**
-
-   Your Java files should be in:
-   ```
-   your-repo-name/
-   └── com/
-       └── atm/
-           └── banking/
-               ├── ATM.java
-               └── Banking.java
-   ```
-
-3. **Compile the Java Files**
-
-   From the root of your project directory (where the `com/` folder is located), run:
-   ```bash
-   javac com/atm/banking/ATM.java com/atm/banking/Banking.java
-   ```
-
-4. **Run the Application**
-   ```bash
-   java com.atm.banking.ATM
-   ```
+4. **Interact with the app**:
+   - The app will run in the console below. Follow the instructions on screen to interact with the ATM.
 
 ---
 
