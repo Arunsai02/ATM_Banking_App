@@ -1,8 +1,7 @@
 # **ATM Banking App**
 You can run the project directly in your browser using Replit.
 
-[Click here to run](https://replit.com/@arunsaijaladan1/ATMBankingApp?v=1)
-
+[Click here to run](https://replit.com/@arunsaijaladan1/ATMBankingApp-1?v=1)
 ---
 
 
